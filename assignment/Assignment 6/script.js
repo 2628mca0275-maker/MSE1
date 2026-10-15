@@ -1,7 +1,7 @@
 // ===================================================================
 // Assignment 6: String Manipulation & Operations
 // Name: Nitin | Roll No: 2628MCA0275 | Section: MCA Section C
-// Faculty: Arvind Reddy
+// Faculty: Vijay Sir
 // ===================================================================
 
 // Task 1: String declaration using single quotes, double quotes, and template literals
